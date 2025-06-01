@@ -1,0 +1,75 @@
+text,emotion,polarity,label_idx,clean_text
+ Serenity found in the beauty of a sunset by the sea.  , Serenity      ,Positive,2,serenity found in the beauty of a sunset by the sea
+" A playful escapade in the carnival of life, carousel laughter and cotton candy dreams swirling in the joyous atmosphere. ", Playful ,Neutral,1,a playful escapade in the carnival of life carousel laughter and cotton candy dreams swirling in the joyous atmosphere
+"Wandering in the maze of betrayal, the walls closing in with every wrong turn. ", Betrayal ,Neutral,1,wandering in the maze of betrayal the walls closing in with every wrong turn
+ Planning a garden makeover for spring.             , Positive  ,Positive,2,planning a garden makeover for spring
+Navigating through the challenges with determination.          , Determination ,Neutral,1,navigating through the challenges with determination
+ Enjoying a cup of tea and watching the sunset.     , Positive  ,Positive,2,enjoying a cup of tea and watching the sunset
+ Empowerment through learning a new skill.            , Empowerment   ,Neutral,1,empowerment through learning a new skill
+ Disappointed with the lack of progress in a personal project. , Disappointed ,Negative,0,disappointed with the lack of progress in a personal project
+" Anxiety grips my heart, worry clouds my thoughts.  ", Anxiety         ,Neutral,1,anxiety grips my heart worry clouds my thoughts
+ Frustration mounts as obstacles block my path.     , Frustration     ,Neutral,1,frustration mounts as obstacles block my path
+" Dismissive gestures, a curtain drawn to shield the vulnerability, a stage where emotions take a backseat to the performance of indifference. ", Dismissive ,Neutral,1,dismissive gestures a curtain drawn to shield the vulnerability a stage where emotions take a backseat to the performance of indifference
+"Rediscovered the joy of cooking traditional family recipes. The kitchen, a place of cherished memories. #FamilyRecipes #SeniorCooking ", Contentment ,Positive,2,rediscovered the joy of cooking traditional family recipes the kitchen a place of cherished memories
+ Feeling a bit under the weather today.             , Negative  ,Negative,0,feeling a bit under the weather today
+"As the waves crash against the shore, the surfer embraces the thrill of riding the ocean's energy, capturing the essence of freedom in each wave. ", Ocean's Freedom ,Neutral,1,as the waves crash against the shore the surfer embraces the thrill of riding the ocean s energy capturing the essence of freedom in each wave
+ Just finished a challenging workout routine.       , Positive  ,Positive,2,just finished a challenging workout routine
+ Gratitude for the supportive community around me.    , Gratitude     ,Positive,2,gratitude for the supportive community around me
+"Joined the drama club to unleash my inner actor. Lights, camera, action! ", Excitement ,Positive,2,joined the drama club to unleash my inner actor lights camera action
+ Just finished an amazing workout! 💪               , Positive  ,Positive,2,just finished an amazing workout
+" Drowning in despair, hope slipping through my fingers.", Despair      ,Negative,0,drowning in despair hope slipping through my fingers
+Confidence soars after overcoming public speaking anxiety.       , Confidence    ,Neutral,1,confidence soars after overcoming public speaking anxiety
+Encountering online toxicity during a gaming session. Hateful comments can ruin the fun. , Hate ,Neutral,1,encountering online toxicity during a gaming session hateful comments can ruin the fun
+ Disgust at the sight of injustice and cruelty.     , Disgust         ,Negative,0,disgust at the sight of injustice and cruelty
+Dazzled by the elegance of a masquerade ball's dazzling costumes. , Dazzle        ,Neutral,1,dazzled by the elegance of a masquerade ball s dazzling costumes
+"Reconnecting with old friends over a cup of tea. Friendship, the true essence of companionship. #OldFriends #Companionship ", Contentment ,Positive,2,reconnecting with old friends over a cup of tea friendship the true essence of companionship
+Awe-struck by the grandeur of an ancient cathedral's intricate architecture. , Awe    ,Positive,2,awe struck by the grandeur of an ancient cathedral s intricate architecture
+ Enjoying a beautiful day at the park!              , Positive  ,Positive,2,enjoying a beautiful day at the park
+"Lost in the enchantment of Disneyland, each ride a journey into the realm of childhood fantasies. ", Enchantment ,Neutral,1,lost in the enchantment of disneyland each ride a journey into the realm of childhood fantasies
+Spent an hour choosing the perfect filter for a selfie. The struggle for that Instagram aesthetic is real. #SelfieQueen #TeenVibes , Joy ,Positive,2,spent an hour choosing the perfect filter for a selfie the struggle for that instagram aesthetic is real
+" Meditating by the serene lake, finding inner peace.   ", Serenity      ,Positive,2,meditating by the serene lake finding inner peace
+"Joined a writing group, penning down thoughts and reflections. Writing, a journey into the depths of the soul. #WritingGroup #SeniorWriter ", Gratitude ,Positive,2,joined a writing group penning down thoughts and reflections writing a journey into the depths of the soul
+" Gratitude as a guiding star, navigating the constellation of blessings in the vast universe of life's precious moments. ", Grateful ,Neutral,1,gratitude as a guiding star navigating the constellation of blessings in the vast universe of life s precious moments
+Accidentally sent a love letter to the wrong person. Love note fail: Maximum embarrassment! , Embarrassed ,Negative,0,accidentally sent a love letter to the wrong person love note fail maximum embarrassment
+" Loneliness in a crowded room, a silent cry for connection.", Loneliness ,Negative,0,loneliness in a crowded room a silent cry for connection
+Attending a workshop on time management to enhance organizational skills. Striving for efficiency. , Neutral ,Neutral,1,attending a workshop on time management to enhance organizational skills striving for efficiency
+Pride in achieving a personal milestone in career progression.   , Pride         ,Neutral,1,pride in achieving a personal milestone in career progression
+ Finding calmness in the midst of a busy day.            , Calmness     ,Neutral,1,finding calmness in the midst of a busy day
+Spark of inspiration ignites like a shooting star in the night sky. , Spark        ,Neutral,1,spark of inspiration ignites like a shooting star in the night sky
+"Exploring the wonders of Ferrari World, the roar of engines creating a symphony of speed. ", Excitement ,Positive,2,exploring the wonders of ferrari world the roar of engines creating a symphony of speed
+Got my hands on the latest fantasy novel. Diving into realms of magic and adventure! , Excitement ,Positive,2,got my hands on the latest fantasy novel diving into realms of magic and adventure
+"In the embrace of love, each heartbeat is a melody, dancing to the rhythm of affection. ", Love ,Neutral,1,in the embrace of love each heartbeat is a melody dancing to the rhythm of affection
+Curiosity piqued by the mysteries of an ancient archaeological site., Curiosity   ,Neutral,1,curiosity piqued by the mysteries of an ancient archaeological site
+Intrigued by the symphony of colors in an abstract art exhibition. , Intrigue      ,Neutral,1,intrigued by the symphony of colors in an abstract art exhibition
+"In the cycling world championship, the climber conquers challenging terrains, symbolizing determination and achievement against all odds. ", Determination ,Neutral,1,in the cycling world championship the climber conquers challenging terrains symbolizing determination and achievement against all odds
+" A compassionate rain, tears of empathy falling gently, nurturing the seeds of kindness in the garden of human connections. ", Compassionate ,Neutral,1,a compassionate rain tears of empathy falling gently nurturing the seeds of kindness in the garden of human connections
+ Fulfillment in completing a challenging workout routine., Fulfillment  ,Neutral,1,fulfillment in completing a challenging workout routine
+" Frustration escalates, a thunderstorm of emotions. ", Frustration     ,Neutral,1,frustration escalates a thunderstorm of emotions
+ Anticipating the release of a much-awaited movie.       , Anticipation ,Neutral,1,anticipating the release of a much awaited movie
+Awash with serenity as the sun sets over a tranquil lakeside retreat. , Serenity   ,Positive,2,awash with serenity as the sun sets over a tranquil lakeside retreat
+"Heart in ruins, the remnants of shattered dreams scattered in the wind. ", Ruins      ,Neutral,1,heart in ruins the remnants of shattered dreams scattered in the wind
+"Embarking on a gondola ride in Venice, each canal reflecting the romance of this timeless city. ", Romance ,Neutral,1,embarking on a gondola ride in venice each canal reflecting the romance of this timeless city
+"As the credits roll, a profound sense of nostalgia washes over, reminiscent of cherished moments in classic films. ", Nostalgia ,Neutral,1,as the credits roll a profound sense of nostalgia washes over reminiscent of cherished moments in classic films
+"Captivated by the spellbinding plot twists, the audience applauds, experiencing a rollercoaster of emotions at the movie premiere. ", Excitement ,Positive,2,captivated by the spellbinding plot twists the audience applauds experiencing a rollercoaster of emotions at the movie premiere
+"Staring at the clock in class, waiting for the bell to ring like it's the most exciting event of the day. #ClassCountdown #TeenLife ", Surprise ,Positive,2,staring at the clock in class waiting for the bell to ring like it s the most exciting event of the day
+"Walking the Great Wall of China, each step a testament to ancient engineering marvels. ", Awe ,Positive,2,walking the great wall of china each step a testament to ancient engineering marvels
+"Embarking on a culinary adventure, savoring exotic flavors around the world. ", Adventure ,Neutral,1,embarking on a culinary adventure savoring exotic flavors around the world
+Successfully completing a challenging coding project. Excitement for overcoming coding hurdles! , Happy ,Positive,2,successfully completing a challenging coding project excitement for overcoming coding hurdles
+" Playfully dancing in the rain of laughter, a whimsical spirit twirling in the puddles of joy and lightheartedness. ", Playful ,Neutral,1,playfully dancing in the rain of laughter a whimsical spirit twirling in the puddles of joy and lightheartedness
+" With a zestful heart, sprinting through fields of enthusiasm, chasing sunbeams and laughter in the meadows of joy. ", Zest ,Neutral,1,with a zestful heart sprinting through fields of enthusiasm chasing sunbeams and laughter in the meadows of joy
+ Feeling grateful for the little things in life.    , Positive  ,Positive,2,feeling grateful for the little things in life
+"The gymnast's unexpected fall during a routine sparks a wave of sympathy from the audience, highlighting the vulnerability of sports. ", Sympathy ,Neutral,1,the gymnast s unexpected fall during a routine sparks a wave of sympathy from the audience highlighting the vulnerability of sports
+" Apprehensive steps on the tightrope of uncertainty, a balancing act where the fall seems inevitable, anxiety a constant companion. ", Apprehensive ,Neutral,1,apprehensive steps on the tightrope of uncertainty a balancing act where the fall seems inevitable anxiety a constant companion
+"Sinking in the quicksand of despair, the harder you fight, the deeper you descend. ", Despair ,Negative,0,sinking in the quicksand of despair the harder you fight the deeper you descend
+"In the gallery of broken promises, each shattered vow framed, a painful exhibition. ", Betrayal ,Neutral,1,in the gallery of broken promises each shattered vow framed a painful exhibition
+Joyful reunion with long-lost friends after years of separation.   , JoyfulReunion ,Neutral,1,joyful reunion with long lost friends after years of separation
+"Joined a seniors' astronomy club, stargazing and finding wonder in the vastness of the cosmos. #AstronomyClub #SeniorStargazer ", Curiosity ,Neutral,1,joined a seniors astronomy club stargazing and finding wonder in the vastness of the cosmos
+"The bitterness of betrayal, a taste that lingers, staining the palate of trust. ", Bitterness ,Neutral,1,the bitterness of betrayal a taste that lingers staining the palate of trust
+Experimenting with a new hair color. A bold change for a bold semester! , Excitement ,Positive,2,experimenting with a new hair color a bold change for a bold semester
+"In the golf tournament, a missed crucial putt results in defeat, causing the golfer to reflect on the pressure of high-stakes competition. ", Pressure ,Neutral,1,in the golf tournament a missed crucial putt results in defeat causing the golfer to reflect on the pressure of high stakes competition
+Successfully avoided eye contact with my crush in the hallway. Mission accomplished. #TeenCrush #StealthMode , Excitement ,Positive,2,successfully avoided eye contact with my crush in the hallway mission accomplished
+"Painful echoes of a love once cherished, now lost in the abyss of time. ", LostLove ,Neutral,1,painful echoes of a love once cherished now lost in the abyss of time
+ Empowered to make a difference in my community.        , Empowerment   ,Neutral,1,empowered to make a difference in my community
+"Swaying to the reggae vibes of Bob Marley's tribute concert, each chord a journey to Jamaica's soul. ", Journey ,Neutral,1,swaying to the reggae vibes of bob marley s tribute concert each chord a journey to jamaica s soul
+" Embraced by the hopeful dawn, a gardener sowing seeds of optimism, tending to the blooms of a brighter tomorrow. ", Hopeful ,Positive,2,embraced by the hopeful dawn a gardener sowing seeds of optimism tending to the blooms of a brighter tomorrow
+Achieving a personal best in a track and field competition. The thrill of victory and self-improvement! , Happy ,Positive,2,achieving a personal best in a track and field competition the thrill of victory and self improvement

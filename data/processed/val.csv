@@ -1,0 +1,38 @@
+text,emotion,polarity,label_idx,clean_text
+Attended a concert and danced the night away. Music is the heartbeat of life. #ConcertVibes #DanceAllNight , Joy ,Positive,2,attended a concert and danced the night away music is the heartbeat of life
+Exploring the world of digital art. It's never too late to discover new passions. #DigitalArtistry #LateBloomer , Curiosity ,Neutral,1,exploring the world of digital art it s never too late to discover new passions
+Collaborating on a group project to promote teamwork and shared responsibilities. Group effort in action. , Neutral ,Neutral,1,collaborating on a group project to promote teamwork and shared responsibilities group effort in action
+ Gratitude for the support received during tough times. , Gratitude     ,Positive,2,gratitude for the support received during tough times
+" A free spirit soaring on the wings of dreams, leaving trails of independence in the azure sky of boundless possibilities. ", Free-spirited ,Neutral,1,a free spirit soaring on the wings of dreams leaving trails of independence in the azure sky of boundless possibilities
+ Overflowing happiness: welcoming a new family member!  , Happiness    ,Positive,2,overflowing happiness welcoming a new family member
+" Embracing imperfections, finding acceptance in the mosaic of life's beautiful chaos. ", Acceptance      ,Neutral,1,embracing imperfections finding acceptance in the mosaic of life s beautiful chaos
+ Awe-struck by the beauty of the night sky.               , Awe          ,Positive,2,awe struck by the beauty of the night sky
+"In the garden of broken dreams, petals fall, a silent testimony to shattered hopes. ", Desolation ,Neutral,1,in the garden of broken dreams petals fall a silent testimony to shattered hopes
+"In the crowd of an Ariana Grande concert, the high notes of 'Into You' create a euphoric symphony. ", Euphoria ,Positive,2,in the crowd of an ariana grande concert the high notes of into you create a euphoric symphony
+"As the first snowflake descends, the winter enthusiast eagerly prepares for a season of frosty delights, anticipating the magic of snow-covered landscapes. ", Winter Magic ,Neutral,1,as the first snowflake descends the winter enthusiast eagerly prepares for a season of frosty delights anticipating the magic of snow covered landscapes
+Decided to learn a new instrument. Day one: Still trying to figure out how to hold it. #MusicNovice #LearningJourney , Frustration ,Neutral,1,decided to learn a new instrument day one still trying to figure out how to hold it
+" Dancing through life with the exuberance of a carefree spirit, embracing joy and zest at every turn. ", Zest ,Neutral,1,dancing through life with the exuberance of a carefree spirit embracing joy and zest at every turn
+" Jealousy gnaws at my confidence, a toxic emotion.  ", Jealousy        ,Neutral,1,jealousy gnaws at my confidence a toxic emotion
+Rejuvenated by the salty breeze and the sound of waves at the seaside. , Rejuvenation ,Neutral,1,rejuvenated by the salty breeze and the sound of waves at the seaside
+ Disappointed with the service at a local restaurant.    , Disappointed ,Negative,0,disappointed with the service at a local restaurant
+ Political discussions heating up on the timeline.  , Negative  ,Negative,0,political discussions heating up on the timeline
+Harmony resonates as musicians play a symphony of unity.           , Harmony       ,Neutral,1,harmony resonates as musicians play a symphony of unity
+ Weekend road trip to explore scenic views.         , Positive  ,Positive,2,weekend road trip to explore scenic views
+" Curiosity driving the exploration of the unknown, a seeker of knowledge in uncharted territories. ", Curiosity       ,Neutral,1,curiosity driving the exploration of the unknown a seeker of knowledge in uncharted territories
+ Attending a live music concert tonight.            , Positive  ,Positive,2,attending a live music concert tonight
+ Attending a virtual conference on AI.              , Neutral   ,Neutral,1,attending a virtual conference on ai
+Euphoria floods in as the final puzzle piece clicks into place.       , Euphoria   ,Positive,2,euphoria floods in as the final puzzle piece clicks into place
+" Frustration boils over, a volcanic eruption of emotions.", Frustration ,Neutral,1,frustration boils over a volcanic eruption of emotions
+" Revisiting old memories, feeling a sense of elation. ", Elation       ,Neutral,1,revisiting old memories feeling a sense of elation
+ Attending a virtual reality meetup.                , Positive  ,Positive,2,attending a virtual reality meetup
+Spent hours creating the perfect playlist for every mood. Music is my therapy. #PlaylistMaker #TeenMusicLover , Joy ,Positive,2,spent hours creating the perfect playlist for every mood music is my therapy
+Contemplating life's mysteries under the starry night sky.         , Contemplation ,Neutral,1,contemplating life s mysteries under the starry night sky
+Survived a group project without any drama. Miracles do happen. #GroupProjectSuccess #TeenAchievements , Satisfaction ,Neutral,1,survived a group project without any drama miracles do happen
+" Loneliness echoes in empty spaces, yearning for connection.", Loneliness ,Negative,0,loneliness echoes in empty spaces yearning for connection
+" Floating on clouds of inspiration, an artist painting the sky with strokes of creativity, creating a masterpiece of dreams. ", Inspired ,Neutral,1,floating on clouds of inspiration an artist painting the sky with strokes of creativity creating a masterpiece of dreams
+ The euphoria of a surprise birthday celebration.     , Euphoria      ,Positive,2,the euphoria of a surprise birthday celebration
+Having a bad hair day and feeling self-conscious. Bad hair days can affect confidence. , Bad ,Neutral,1,having a bad hair day and feeling self conscious bad hair days can affect confidence
+ Contentment in the embrace of a loved one.           , Contentment   ,Positive,2,contentment in the embrace of a loved one
+"A symphony of laughter, each note a key to unlocking the door of boundless happiness. ", Happiness ,Positive,2,a symphony of laughter each note a key to unlocking the door of boundless happiness
+" Intimidation by the challenges ahead, fear takes hold.", Intimidation ,Neutral,1,intimidation by the challenges ahead fear takes hold
+Awe-inspired by the vastness of the cosmos on a stargazing night.   , Wonder       ,Neutral,1,awe inspired by the vastness of the cosmos on a stargazing night
